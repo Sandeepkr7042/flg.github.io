@@ -1,0 +1,831 @@
+@media(max-width:1560px){
+
+}
+@media(max-width:1367px){
+
+}
+@media(max-width:1199px){
+    .fontSize56{
+        font-size: 52px;
+        line-height: 72px;
+    }
+    .fontSize54 {
+        font-size: 50px;
+        line-height: 66px;
+    }
+    .container {
+        max-width: 100%;
+        padding: 0 50px;
+    }
+    .nav-item{
+        margin-right: 16px;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+    .solsecListing.solsecListing2 ul li{
+        font-size: 25px;
+        line-height: 35px;
+    }
+    .careerSecRight .solSecHeading h3{
+        padding-right: 0px;
+    }
+    .contactSecInner .contactRight{
+        padding: 47px 60px;
+    }
+    
+}
+@media(max-width:991px){
+/* Sidenav Start */
+.topBoxs {
+    margin-top: 85px;
+}
+.navbar-expand-md .navbar-toggler {
+    display: block;
+}
+.navbar-expand-md .navbar-collapse {
+    position: fixed;
+    width: 250px;
+    top: 0;
+    left: -250px;
+    /* background-image: linear-gradient(to bottom, #152969, #142764, #13255e, #122359, #112154); */
+    background: var(--colorWhite);
+    height: 100%;
+    transition: all 0.3s ease;
+    display: initial !important;
+    margin-top: 61px;
+    padding: 20px 12px 0px 12px;
+    z-index: 9;
+}    
+.nav-link:hover, .nav-link:focus{
+    border-bottom: none;
+}
+.navbar-expand-md .navbar-nav {
+    flex-direction: column;
+}
+.navbar-light .navbar-nav .nav-item {
+    margin-bottom: 5px;
+}
+.headerBox {
+    display: block !important;
+    float: left !important;
+}
+.navbar-expand-md .navbar-nav .nav-link
+{
+    padding: 0;
+}
+.nav-item
+{
+    margin-bottom: 15px;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu
+{
+    position: relative;
+    background: transparent;
+    border: none;
+    padding-bottom: 0;
+}
+.navbar-expand-md .navbar-nav .dropdown-menu.show
+{
+    transition: all 0.3s ease;
+}
+
+.dropdown-item
+{
+    color: #fff;
+}
+.navbar-expand-md .navbar-nav .nav-link{
+    padding-bottom: 5px;
+}
+.nav-link.activeMenu:after{
+    right: inherit;
+}
+
+/* Sidenav End */
+.navbar-brand{
+    height: auto;
+    width: 86px;
+    padding: 0;
+}
+.navbar-brand img {
+    width: 100%;
+    height: 100%;
+}
+.topSection{
+    margin-top: 61px;
+}
+.headRight{
+    justify-content: flex-end;
+}
+.headerRightSec ul li{
+    display: inline-block;
+    float: left;
+}
+.headerRightSec ul li.sideMenuBtn{
+    margin-left: 35px;
+}
+.headerRightSec ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.navbar-expand-md .navbar-toggler{
+    padding: 10px 15px;
+}
+.mainBanner{
+    padding: 49px 0 90px;
+}
+.bannerInner .row .col-sm-6{
+    flex: 0 0 90%;
+    max-width: 90%;
+}
+.fontSize56 {
+    font-size: 48px;
+    line-height: 66px;
+}
+.fontSize54 {
+    font-size: 46px;
+    line-height: 60px;
+}
+.btnStyle{
+    font-size: 14px;
+    line-height: 14px;
+}
+.btnStyle2 {
+    padding: 14px 30px;
+}
+.bannerInner h4{
+    width: 65%;
+}
+.fontSize20 {
+    font-size: 17px;
+    line-height: 27px;
+}
+.fontSize38 {
+    font-size: 34px;
+    line-height: 45px;
+}
+.statsSection {
+    padding: 60px 0 70px;
+}
+.statsHeading p{
+    padding: 0 20px;
+}
+.statsSecBox {
+    margin-top: 60px;
+    padding: 0;
+}
+.statsSec .statsSecInner span{
+    font-size: 35px;
+    line-height: 35px;
+}
+.statsSec .statsContent{
+    font-size: 22px;
+    line-height: 28px;
+}
+.statsSec .statsSecInner{
+    height: 130px;
+    width: 130px;
+}
+.statsSec .statsSecInner::before{
+    height: 44px;
+    width: 44px;
+}
+.statsSec .statsSecInner:after{
+    height: 30px;
+    width: 30px;
+}
+.fontSize34 {
+    font-size: 31px;
+    line-height: 43px;
+}
+.topLineSec::before{
+    width: 50px;
+}
+.aboutGallery .aboutGalImage span{
+    font-size: 25px;
+    line-height: 35px;
+}
+.ourSolutions {
+    padding: 60px 0 70px;
+}
+.fontSize32 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.solsecListing ul li{
+    font-size: 20px;
+    line-height: 30px;
+}
+.solsecListing .subList ul li{
+    font-size: 18px;
+    line-height: 26px;
+}
+.ourSolutionBtm .ourSolSections{
+    padding: 60px 0 70px;
+}
+.fontSize28 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.solSecHeading h2{
+    margin-bottom: 24px;
+}
+.viewMoreSec {
+    margin-top: 30px;
+}
+.salesListings.solsecListing ul li .listIcon{
+    width: 45px;
+}
+.ourProjects {
+    padding: 60px 0 70px;
+}
+.ourImpaceBox {
+    padding-top: 60px;
+}
+.ourImpactBottom{
+    padding: 60px 0 54px;
+}
+.careerSection {
+    padding: 60px 0 70px;
+}
+.careerSecRight {
+    padding-left: 20px;
+    padding-top: 0;
+}
+.fontSize24 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.contactSection{
+    padding: 60px 0 70px;
+}
+.footerTop{
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.footTopLeft{
+    width: 100%;
+    margin-bottom: 20px;
+}
+.contactSecInner .contactRight {
+    padding: 40px 30px;
+}
+.contactSecInner .contactLeft{
+    padding: 70px 30px 50px;
+}
+.contactRightTop h3 span img{
+    width: 30px;
+}
+.formStyle .form-group {
+    margin-bottom: 20px;
+}
+.solsecListing.solsecListing2 ul li {
+    font-size: 20px;
+    line-height: 32px;
+}
+.projectsSec .projectsHeadings h2{
+    font-size: 26px;
+    line-height: 36px;
+}
+.secInnerHeading{
+    margin: 20px 0 30px;
+}
+
+/* Inventory Page Start */
+.inventoriesBanner{
+    padding: 80px 0 180px;
+}
+.inventorySecBox .inventoryTitle{
+    left: 15px;
+    right: 15px;
+    bottom: 15px;
+}
+.inventorySecBox2 .inventoryTitle {
+    bottom: 45px;   
+}
+.inventorySecBox .inventoryTitle:before{
+    top: -10px;
+}
+.inventoriesSec {
+    padding: 20px 0 80px;
+}
+.inventoriesBanner{
+    background-size: cover;
+}
+/* Inventory Page End */
+
+} 
+@media(max-width:767px){ 
+.headRight {
+    width: auto;
+} 
+.container {
+    padding: 0 30px;
+}
+.topSection{
+    margin-top: 59px;
+}
+.navbar-expand-md .navbar-collapse{
+    margin-top: 59px;
+}
+.contactSecInner{
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.contactSecInner .contactLeft,
+.contactSecInner .contactRight{
+    width: 100%;
+}
+.footMenu ul li{
+    margin-bottom: 5px;
+}
+.fontSize56 {
+    font-size: 44px;
+    line-height: 60px;
+}
+.fontSize54 {
+    font-size: 42px;
+    line-height: 56px;
+}
+.headerRightSec ul li.sideMenuBtn {
+    margin-left: 25px;
+}
+.bannerInner .row .col-sm-6 {
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.bannerInner h4 {
+    width: 53%;
+    padding-right: 0;
+}
+.mainBanner{
+    background-position: right 73% center;
+}
+.bannerInner h2{
+    margin-bottom: 15px;
+}
+.statsSection {
+    padding: 50px 0 60px;
+}
+.statsSecBox .row .col-sm-3{
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.fontSize38 {
+    font-size: 32px;
+    line-height: 42px;
+}
+.statsHeading p {
+    padding: 0;
+}
+.statsSec .statsContent {
+    font-size: 20px;
+    line-height: 28px;
+}
+.statsSec .statsContent span br{
+    display: none;
+}
+.statsSec{
+    margin-bottom: 30px;
+}
+.statsSecBox .col-sm-3:nth-last-child(-n+2) .statsSec{
+    margin-bottom: 0;
+}
+.aboutGallery .row .col-sm-4, 
+.aboutGallery .row .col-sm-5, 
+.aboutGallery .row .col-sm-7{
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 20px;
+}
+.aboutGallery .aboutGalImage{
+    height: 100%;
+}
+.aboutGallery .aboutGalImage img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.aboutUs {
+    background: #fafafa;
+    padding: 50px 0;
+}
+.fontSize34 {
+    font-size: 30px;
+    line-height: 40px;
+}
+/* .aboutGallery .aboutGalImage span {
+    font-size: 19px;
+    line-height: 25px;
+} */
+.aboutUsBottom .col-sm-4{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.aboutUsBottom .col-sm-4 .aboutUsContent{
+    margin-bottom: 30px;
+}
+.aboutUsBottom .col-sm-4:last-child .aboutUsContent{
+    margin-bottom: 0;
+}
+.fontSize18 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.aboutUsContent h3 {
+    margin-bottom: 10px;
+}
+.topLineSec {
+    padding-top: 14px;
+}
+.fontSize32 {
+    font-size: 24px;
+    line-height: 34px;
+}
+.ourSolInner .ourSolutionBtm.sectionMargin{
+    margin-top: 10px;
+}
+.solsecListing ul li {
+    font-size: 18px;
+    line-height: 27px;
+    margin-bottom: 18px;
+}
+.solsecListing .subList ul li {
+    font-size: 16px;
+    line-height: 24px;
+}
+.solsecListing .subList ul li::before{
+    top: 7px;
+}
+.ourSolLeft{
+    margin-bottom: 30px;
+}
+.ourSolutionBtm .ourSolSections .col-sm-5,
+.ourSolutionBtm .ourSolSections .col-sm-7{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.ourSolRight{
+    text-align: center;
+}
+.ourSolutions {
+    padding: 50px 0 60px;
+}
+.ourProjectsSec .ourProjectsLists .col-sm-5,
+.ourProjectsSec .ourProjectsLists .col-sm-7{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.ourProjectsSec .ourProjectsLists .projectSecImage img{
+    width: 100%;
+}
+.ourProjectsSec .ourProjectsLists .projectSecImage{
+    padding-right: 0;
+    margin-bottom: 30px;
+}
+.ourProjectsSec .ourProjectsLists .projectSecContent{
+    padding-left: 0;
+}
+.ourProjectsSec .ourProjectsLists:nth-child(even) .projectSecImage{
+    padding-left: 0;
+}
+.solSecHeading h2 {
+    margin-bottom: 18px;
+}
+.viewMoreSec {
+    margin-top: 25px;
+}
+.ourProjectsSec .ourProjectsLists {
+    margin-bottom: 60px;
+}
+.fontSize28 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.salesListings {
+    margin-top: 50px;
+}
+.salesListings.solsecListing ul li .listIcon {
+    width: 38px;
+}
+.ourImpaceBox {
+    padding-top: 50px;
+}
+.mainHeadSec.mainHeadSec2 {
+    margin-bottom: 40px;
+}
+.ourImpactBtm {
+    width: 100%;
+}
+.careerSection {
+    padding: 50px 0 60px;
+}
+.careerSecRight{
+    padding-left: 0px;
+    margin-top: 20px;
+}
+/* .fontSize24 {
+    font-size: 18px;
+    line-height: 30px;
+} */
+.ourProjects {
+    padding: 50px 0 60px;
+}
+.contactSection {
+    padding: 50px 0 60px;
+}
+.contactSecInner .contactLeft {
+    padding: 40px 30px 40px;
+}
+.contactLeftImage {
+    margin-bottom: 30px;
+}
+.contactLeft h3 {
+    margin-bottom: 6px;
+}
+.footerBtm{
+    /* flex-direction: column; */
+}
+.footerBtm .footBtmMid{
+    margin: 20px 0;
+}
+.footTopLeft a{
+    width: 120px;
+    display: inline-block;
+}
+.steeringIcon {
+    margin-right: 8px;
+    display: inline-block;
+    width: 40px;
+}
+.steeringContent{
+    font-size: 16px;
+}
+.contactRightBtm {
+    margin-top: 40px;
+}
+
+
+}
+@media(max-width:560px){
+.container {
+    padding: 0 20px;
+}
+.fontSize56 {
+    font-size: 42px;
+    line-height: 56px;
+}
+.fontSize54 {
+    font-size: 36px;
+    line-height: 50px;
+}
+.bannerInner h4 {
+    width: 63%;
+    padding-right: 0;
+}
+.mainBanner {
+    padding: 49px 0 55px;
+}
+.fontSize38 {
+    font-size: 30px;
+    line-height: 40px;
+}
+.statsSection {
+    padding: 40px 0 50px;
+}
+.statsSec .statsContent {
+    font-size: 18px;
+    line-height: 26px;
+}
+.aboutUs {
+    padding: 40px 0;
+}
+.ourSolutions {
+    padding: 40px 0 50px;
+}
+.fontSize32 {
+    font-size: 22px;
+    line-height: 32px;
+}
+.solsecListing ul li {
+    font-size: 16px;
+    line-height: 25px;
+}
+.ourSolutionBtm .ourSolSections {
+    padding: 60px 0 60px;
+}
+.ourProjects {
+    padding: 40px 0 50px;
+}
+.topLineSec {
+    margin-bottom: 5px;
+}
+.fontSize28 {
+    font-size: 18px;
+    line-height: 30px;
+}
+.btnStyle2 {
+    padding: 12px 22px;
+}
+.solsecListing.solsecListing2 ul li {
+    font-size: 18px;
+    line-height: 32px;
+}
+.ourImpaceBox {
+    padding-top: 40px;
+}
+.ourImpactContent p {
+    margin-bottom: 18px;
+}
+.ourImpactBottom {
+    padding: 40px 0 50px;
+}
+.careerSection {
+    padding: 40px 0 50px;
+}
+.ourProjectsSec .ourProjectsLists {
+    margin-bottom: 50px;
+}
+.solSecHeading h2 {
+    margin-bottom: 12px;
+}
+.contactSection {
+    padding: 40px 0 50px;
+}
+.formButton button{
+    padding: 13px 70px;
+}
+.footerBtm {
+    flex-direction: column;
+}
+.ourSolutionBtm .ourSolSections::before{
+    width: 85%;
+    border-bottom: 2px dashed #2ba9f7
+}
+.projectsPage .projectName{
+    padding: 10px 15px;
+}
+.projectsPage{
+    padding: 30px 0;
+}
+.projectsSec .projectsHeadings h3{
+    font-size: 18px;
+    line-height: 28px;
+}
+.projectsPage .projectName h4{
+    font-size: 18px;
+    line-height: 28px;
+}
+.projectsPage .projectName.projectName2 {
+    padding: 12px 6px 12px;
+}
+.secInnerHeading {
+    margin: 20px 0 20px;
+}
+.projectsSec .projectsHeadings.projectsHeadings2 {
+    margin-bottom: 10px;
+}
+.projectSecBoxs .row .col-sm-6, 
+.projectSecBoxs .row .col-sm-4{
+    margin-bottom: 20px;
+}
+.secInnerHeading h3{
+    font-size: 24px;
+    line-height: 34px;
+}
+.inventoriesBanner {
+    padding: 50px 0 150px;
+}
+
+}
+@media(max-width:414px){
+.fontSize56 {
+    font-size: 38px;
+    line-height: 50px;
+}
+.fontSize54 {
+    font-size: 32px;
+    line-height: 46px;
+}
+.bannerInner h4 {
+    width: 100%;
+}
+.topLineSec.topLineSec2::before {
+    width: 50px;
+}
+.bannerInner h2 {
+    margin-bottom: 10px;
+}
+.headerRightSec ul li.sideMenuBtn {
+    margin-left: 18px;
+}
+.btnStyle{
+    padding: 10px 16px;
+}
+.fontSize38 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.fontSize20 {
+    font-size: 16px;
+    line-height: 26px;
+}
+.mainBanner {
+    background-position: right 105% center;
+}
+.statsSec .statsSecInner span {
+    font-size: 30px;
+    line-height: 30px;
+}
+/* .statsSec .statsContent {
+    font-size: 16px;
+    line-height: 23px;
+} */
+.statsSec .statsSecInner {
+    height: 110px;
+    width: 110px;
+}
+.statsSec .statsSecInner::before {
+    height: 34px;
+    width: 34px;
+}
+.statsSec .statsSecInner:after {
+    height: 22px;
+    width: 22px;
+}
+.statsSec .statsSecInner{
+    margin: 0 auto 15px;
+}
+.aboutGallery .row .col-sm-4, .aboutGallery .row .col-sm-5, .aboutGallery .row .col-sm-7{
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+.fontSize18 {
+    font-size: 15px;
+    line-height: 25px;
+}
+/* .fontSize32 {
+    font-size: 20px;
+    line-height: 30px;
+} */
+.solsecListing ul li {
+    font-size: 15px;
+    line-height: 25px;
+}
+.solsecListing .subList ul li {
+    font-size: 15px;
+    line-height: 22px;
+    margin-bottom: 12px;
+}
+.fontSize28 {
+    font-size: 17px;
+    line-height: 30px;
+}
+.solsecListing.solsecListing2 ul li {
+    font-size: 17px;
+    line-height: 32px;
+}
+.solsecListing ul li{
+    margin-bottom: 15px;
+}
+/* .fontSize24 {
+    font-size: 17px;
+    line-height: 29px;
+} */
+.contactSecInner .contactRight {
+    padding: 40px 20px;
+}
+.contactSecInner .contactLeft {
+    padding: 40px 20px;
+}
+.footMenu ul li {
+    margin-bottom: 10px;
+    width: 47%;
+    margin-right: 15px;
+}
+.footMenu ul li:nth-child(even){
+    margin-right: 0;
+}
+.fontSize14 {
+    font-size: 13px;
+    line-height: 14px;
+}
+.footBtmRight ul li {
+    margin-right: 20px;
+}
+.footer {
+    padding: 40px 0 15px;
+}
+.formStyle .form-group {
+    margin-bottom: 15px;
+}
+.formStyle .form-control{
+    font-size: 16px;
+    line-height: 16px;
+}
+.footerBtm .footBtmMid {
+    margin: 15px 0;
+}
+
+}
